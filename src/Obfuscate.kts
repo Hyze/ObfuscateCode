@@ -1,10 +1,7 @@
 #!/usr/bin/env kscript
 
-import java.awt.Color
 import java.lang.System.exit
-import kotlin.experimental.xor
 import kotlin.random.Random
-import kotlin.text.Charsets.UTF_8
 
 
 
