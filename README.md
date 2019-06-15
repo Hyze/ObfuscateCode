@@ -1,4 +1,4 @@
-# Obfuscate-code XOR
+# Obfuscate String XOR
 This script can obfuscate any strings
 
 ## Requirements
